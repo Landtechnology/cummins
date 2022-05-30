@@ -1,15 +1,5 @@
-deploy java application
+#!/bin/bash
+echo list of 2021 devops engineers
+echo NK bako 
 
-nyeka
-uzo
-ziny
- 
-Devops is easy
-deploy dev environment
-deployment5 master
-
-deployment4
-
-God is good
-we will make it
 
